@@ -52,3 +52,35 @@ Linkovi do slika
 [Slika3](https://www.pexels.com/photo/notebook-beside-the-iphone-on-table-196644/)
 
 
+Numerirana Lista
+
+1. Prvi korak
+2. Drugi korak
+3. Treći korak
+
+Nenumerirana Lista
+
+- Stavka A
+- Stavka B
+- Stavka C
+
+
+Primjer Tablice
+
+| Naziv projekta | Verzija | Autor | Datum       | Tehnologije          |
+|----------------|---------|--------|-------------|------------------------|
+| MojProjekt     | 1.0.0   | Lovro K. | 15.01.2026 | Markdown, Git, GitHub |
+
+Primjer Citata
+
+> "Ovo je primjer citata napisanog Markdown sintaksom."
+
+
+
+
+
+
+
+
+
+
