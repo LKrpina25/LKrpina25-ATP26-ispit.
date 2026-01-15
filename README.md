@@ -76,6 +76,22 @@ Primjer Citata
 > "Ovo je primjer citata napisanog Markdown sintaksom."
 
 
+[![UX Design Video](https://img.youtube.com/vi/9B0s0Zk9K1c/0.jpg)](https://www.youtube.com/watch?v=9B0s0Zk9K1c)
+
+
+- :sparkles: Novi feature
+- :rocket: Brzi razvoj
+- :bulb: Ideje i inspiracija
+- :computer: Tehnologija
+
+
+> [!NOTE]
+> Ovo je napomena dodana u README.md koristeći GitHub callout sintaksu.
+
+
+
+
+
 
 
 
